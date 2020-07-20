@@ -1,0 +1,13 @@
+.menu {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+}
+
+.menu--colum {
+  flex-direction: column;
+}
+
+.menuItemLi {
+  display: flex;
+}
